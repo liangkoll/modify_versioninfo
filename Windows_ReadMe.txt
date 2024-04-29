@@ -1,0 +1,5 @@
+1.将可执行文件win_x64_modify_versioninfo.exe和需要修改的zip压缩包放入同一文件路径下
+2.右击以管理员权限运行win_x64_modify_versioninfo.exe
+3.修改完的zip压缩包在TEMP_FILE文件加下
+
+ps: 后续需要增加版本，直接在versioninfo.config文件中，根据格式添加版本
